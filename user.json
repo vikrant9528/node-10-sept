@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "first_name": "Bethina",
+    "last_name": "Drewett",
+    "email": "bdrewett0@tiny.cc",
+    "gender": "Female"
+  },
+  {
+    "id": 2,
+    "first_name": "Roland",
+    "last_name": "Paddington",
+    "email": "rpaddington1@wired.com",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "first_name": "Chrissy",
+    "last_name": "Lumpkin",
+    "email": "clumpkin2@fotki.com",
+    "gender": "Female"
+  },
+  {
+    "id": 4,
+    "first_name": "Shawn",
+    "last_name": "Wentworth",
+    "email": "swentworth3@imageshack.us",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "first_name": "Imojean",
+    "last_name": "Toplin",
+    "email": "itoplin4@irs.gov",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "first_name": "Kelbee",
+    "last_name": "Heckner",
+    "email": "kheckner5@wikimedia.org",
+    "gender": "Male"
+  },
+  {
+    "id": 7,
+    "first_name": "Audrye",
+    "last_name": "Yorston",
+    "email": "ayorston6@mail.ru",
+    "gender": "Female"
+  },
+  {
+    "id": 8,
+    "first_name": "Nickolaus",
+    "last_name": "Lismer",
+    "email": "nlismer7@phpbb.com",
+    "gender": "Male"
+  },
+  {
+    "id": 9,
+    "first_name": "Adam",
+    "last_name": "Moizer",
+    "email": "amoizer8@odnoklassniki.ru",
+    "gender": "Male"
+  },
+  {
+    "id": 10,
+    "first_name": "Nollie",
+    "last_name": "Simonou",
+    "email": "nsimonoua@boston.com",
+    "gender": "Male"
+  },
+  {
+    "id": 11,
+    "first_name": "shomuda",
+    "last_name": "gomuda",
+    "email": "bdrewett0@tiny.cc",
+    "gender": "Female"
+  },
+  {
+    "id": 12,
+    "first_name": "shomuda",
+    "last_name": "gomuda",
+    "email": "bdrewett0@tiny.cc",
+    "gender": "Female"
+  }
+]
